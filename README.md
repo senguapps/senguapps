@@ -1,4 +1,4 @@
-## Welcom
+## Welcome
 
 I’m a dedicated and passionate developer with expertise in **C#**, **C++**, **Swift**, **PLC Programming**, **Robotics**. My journey has spanned various tech stacks and platforms, from mobile apps to insturial automation application development and equipment programming.
 
@@ -25,7 +25,6 @@ I’m a dedicated and passionate developer with expertise in **C#**, **C++**, **
 - [Tamil Quotes](https://apps.apple.com/in/app/tamil-quotes/id1373808729)
 
 ### Web Site
-- [Senguapps.com](https://www.senguapps.com/)
+- [senguapps.com](https://www.senguapps.com/)
 
-
-**LinkedIn:** [LinkedIn Profile Link](https://sg.linkedin.com/in/senguttuvannallappan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://sg.linkedin.com/in/senguttuvannallappan)
