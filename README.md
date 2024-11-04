@@ -8,12 +8,13 @@ I’m a dedicated and passionate developer with expertise in **C#**, **C++**, **
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> 
   <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-02B2FE?style=flat&logo=Swift&logoColor=white"/> 
+  <img alt="VB" src="https://img.shields.io/badge/VB-5C2D91?style=flat&logo=.net&logoColor=white"/>
   <img alt="PLC Programming" src="https://img.shields.io/badge/PLC%20Programming-02569B?style=flat&logo=matrix&logoColor=white"/> 
   <img alt="Robotics" src="https://img.shields.io/badge/Robotics-006F62?style=flat&logo=robot-framework&logoColor=white"/> 
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/> 
 </p>
     
-- **Languages:** C#, C++, Swift, PLC programming, TypeScript.
+- **Languages:** C#, C++, Swift, Objective-C, VB.Net, PLC programming, TypeScript.
 
 #### Apps
 <p>
