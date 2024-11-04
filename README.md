@@ -14,7 +14,7 @@ I’m a dedicated and passionate developer with expertise in **C#**, **C++**, **
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/> 
 </p>
     
-- **Languages:** C#, C++, Swift, Objective-C, VB.Net, PLC programming, TypeScript.
+- **Languages:** C#, C++, Swift, Objective-C, VB.Net, PLC programming (Script, LD, FB, SFC), TypeScript.
 
 #### Apps
 <p>
